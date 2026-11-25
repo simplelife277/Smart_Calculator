@@ -43,7 +43,7 @@ Day_01_Smart_Calculator/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/simplelife277/Day_01_Smart_Calculator.git
+https://github.com/simplelife277/Smart_Calculator
 ```
 
 2. Navigate to the project folder:
